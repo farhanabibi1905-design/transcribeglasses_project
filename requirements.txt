@@ -1,0 +1,7 @@
+streamlit
+streamlit-authenticator
+faster-whisper
+transformers
+torch
+torchaudio
+numpy
