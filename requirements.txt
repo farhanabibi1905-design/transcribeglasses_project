@@ -4,4 +4,8 @@ faster-whisper
 transformers
 torch
 torchaudio
-numpy
+
+
+sounddevice
+
+
